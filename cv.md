@@ -7,13 +7,13 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`1999`
+__Wesleyan University__
+Bachelor of Arts Degree
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2008`
+__George Fox University__
+Master of Arts Degree  
 
 ## Awards
 
