@@ -1,4 +1,4 @@
-# Site navigation links
+# Site navigation links, menu items at the top of the site. need to have a file with that name available in order to 
 - title: Home
   url: /
 
@@ -8,8 +8,8 @@
 - title: CV
   url: /cv/
 
-- title: Blog
-  url: /blog/
+- title: Boom
+  url: /boom/
 
 - title: Workshops
   url: /workshops/
