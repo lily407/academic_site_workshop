@@ -7,7 +7,7 @@ Psychotherapist extraordinaire by day, OHSU Fellow in Clinical Informatics by ni
 
 ## Current Interests and Projects:
 
-[Psychotherapy Site]()      http://www.therapyinportland.com
+[Psychotherapy Site: ]()  http://www.therapyinportland.com
 - Therapizing
 - [GitHub Pages](http://lily407.github.io)
 - Researching
