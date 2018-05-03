@@ -4,7 +4,8 @@ excerpt: "About Me..."
 ---
 
 Psychotherapist extraordinaire by day, OHSU Fellow in Clinical Informatics by night. 
-![Parrot Shirt: ] https://en.wikipedia.org/wiki/Oregon
+
+![Parrot Shirt: 
 
 ## Current Interests and Projects:
 
