@@ -1,4 +1,5 @@
-# Site navigation links, menu items at the top of the site. need to have a file with that name available in order to 
+# Site navigation links, menu items at the top of the site. need to have a file with that name available in the main directory 
+
 - title: Home
   url: /
 
