@@ -24,7 +24,7 @@ Name of Award, Organization
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+## Journals
 
 `2018`
 Article Title, Journal Title
@@ -32,7 +32,7 @@ Article Title, Journal Title
 `1994`
 Article Title, Journal Title
 
-### Books
+## Books
 
 `1994`
 Book Title, Journal Title
