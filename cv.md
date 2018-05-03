@@ -15,18 +15,18 @@ Bachelor of Arts Degree
 __George Fox University__
 Master of Arts Degree  
 
-## Awards
+#### Awards
 
 `2012`
 Name of Award, Organization 
 
-## Publications
+### Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
 
-`1994`
+`2018`
 Article Title, Journal Title
 
 `1994`
@@ -65,6 +65,6 @@ __Current Job Title__, Current Employer
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2018 -->
 
 
