@@ -9,5 +9,5 @@ Psychotherapist extraordinaire by day, OHSU Fellow in Clinical Informatics by ni
 
 [Psychotherapy Site: ]()  http://www.therapyinportland.com
 - Therapizing
-- [GitHub Pages](http://lily407.github.io)
+- [GitHub Page](http://lily407.github.io)
 - Researching
