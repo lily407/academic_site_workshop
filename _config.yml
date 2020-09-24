@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Professional and Academic Website for Lily
+title: Professional and Academic Website for Lily Cook
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -11,7 +11,7 @@ owner:
   bio: "I am PhD candidate in the Department of Medical Informatics and Clinical Epidemiology at Oregon Health & Science University."
   email: lily407@yahoo.com
   # Do not include the @ symbol in your Twitter username
-  twitter: #I don't have one of those... 
+  twitter: I don't have one of those... 
   linkedin: #username
   github: lily407
   orcid: 0000-0002-2949-4978
