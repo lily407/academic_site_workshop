@@ -1,20 +1,20 @@
 # Site wide configuration
 
-title: Academic Website for Lily
+title: Professional and Academic Website for Lily
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Lily
+  name: Lily A. Cook
   avatar: bio-photo.jpg
-  bio: "This is a test site."
+  bio: "I am PhD candidate in the Department of Medical Informatics and Clinical Epidemiology at Oregon Health & Science University."
   email: lily407@yahoo.com
   # Do not include the @ symbol in your Twitter username
   twitter: #I don't have one of those... 
   linkedin: #username
   github: lily407
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  orcid: 0000-0002-2949-4978
   researchgate: #username
   mendeley: #username
   google:
