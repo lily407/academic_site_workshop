@@ -1,4 +1,5 @@
 # Site navigation links, menu items at the top of the site. need to have a file with that name available in the main directory 
+# dash tells github that you want to include that page in your site. Comment to exclude those pages
 
 - title: Home
   url: /
@@ -9,8 +10,8 @@
 - title: CV
   url: /cv/
 
-- title: Boom
-  url: /boom/
+#- title: Boom
+  #url: /boom/
 
 - title: Workshops
   url: /workshops/
